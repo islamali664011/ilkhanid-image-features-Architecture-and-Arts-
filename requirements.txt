@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+timm
+numpy
+Pillow
+requests
+google-api-python-client
+google-auth
